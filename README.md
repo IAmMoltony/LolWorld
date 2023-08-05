@@ -3,4 +3,4 @@
 
 LolWorld is my minecraft world that i decided to upload to github so that i can play it from multiple computers
 
-**Issues and polls not accepted❗❗❗🗣️🗣️🗣️**
+**Issues and pulls not accepted❗❗❗🗣️🗣️🗣️**
