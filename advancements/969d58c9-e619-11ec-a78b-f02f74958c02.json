@@ -1390,21 +1390,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/food/cake": {
-    "criteria": {
-      "has_egg": "2023-08-04 19:47:31 +0600"
-    },
-    "done": true
-  },
   "minecraft:recipes/misc/book": {
     "criteria": {
       "has_paper": "2023-08-04 19:39:21 +0600"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/emerald_block": {
+  "minecraft:recipes/decorations/cartography_table": {
     "criteria": {
-      "has_emerald": "2023-08-04 19:47:32 +0600"
+      "has_paper": "2023-08-04 19:39:21 +0600"
     },
     "done": true
   },
@@ -1420,9 +1414,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/cartography_table": {
+  "minecraft:recipes/food/cake": {
     "criteria": {
-      "has_paper": "2023-08-04 19:39:21 +0600"
+      "has_egg": "2023-08-04 19:47:31 +0600"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/emerald_block": {
+    "criteria": {
+      "has_emerald": "2023-08-04 19:47:32 +0600"
     },
     "done": true
   },
